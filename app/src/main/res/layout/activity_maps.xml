@@ -25,7 +25,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="@string/koordinat_user"
-            android:id="@+id/coordinate"
+            android:id="@+id/btn_coordinate"
             tools:ignore="NestedWeights" />
 
         <Button
@@ -34,7 +34,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="@string/posisi_user"
-            android:id="@+id/position"/>
+            android:id="@+id/btn_position"/>
     </LinearLayout>
 
 </LinearLayout>
